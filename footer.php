@@ -24,7 +24,7 @@
                 </ul>
             </div>
             <div class="col-md-3">
-                <h3>Useful Links</h3>
+                <h3>Usefull Links</h3>
                 <ul class="menu-list">
                     <li><a href="<?php echo $hostname; ?>">Home</a></li>
                     <li><a href="all_products.php">All Products</a></li>
